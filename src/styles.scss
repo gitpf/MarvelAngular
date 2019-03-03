@@ -1,1 +1,23 @@
 /* You can add global styles to this file, and also import other style files */
+
+
+
+
+$primary-color: #C41D1E;
+$secondary-color: #5F7FAE;
+$text-field-background: #2A3758;
+
+$primary-background: #141934;
+$secondary-background: #1D264A;
+
+
+
+.action-button {
+  border-radius: 30;
+  color: white;
+  background-color: #C41D1E;
+  font-size: 20;
+  height: 50;
+  width: 300;
+  text-transform: uppercase;
+}
